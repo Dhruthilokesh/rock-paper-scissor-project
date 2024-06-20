@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(25 25 25);
+    color: white;
+    font-family: arial;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.move-icon{
+    height:50px;
+
+}
+
+.move-button{
+    background-color: transparent;
+    border: 3px solid white;
+    height: 120px;
+    width : 120px;
+    border-radius : 60px;
+    margin-right : 10px;
+    cursor: pointer;
+}
+
+.result{
+    margin-top: 70px;
+    size:35px;
+}
+
+.alteration-of-reset-button,.alteration-of-auto-button{
+    margin-top:50px;
+    border: none;
+    font-family: arial;
+    color:black;
+    font-weight:bold;
+    background-color: rgb(240 240 240);
+    padding: 10px;
+    font-size:25px;
+    
+}
+
+p{
+    font-size:25px;
+}
